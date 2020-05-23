@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Dogs</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_488637_fetch_dogs</name>
+        <number_ref display_value="DOG">0465c273db78901095c661ca0b96195b</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-22 15:16:38</sys_created_on>
+        <sys_id>77558273db78901095c661ca0b9619df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dogs</sys_name>
+        <sys_package display_value="Fetch" source="x_488637_fetch">1c8446bbdbf4901095c661ca0b961987</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fetch">1c8446bbdbf4901095c661ca0b961987</sys_scope>
+        <sys_update_name>sys_db_object_77558273db78901095c661ca0b9619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-22 15:16:39</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

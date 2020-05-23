@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="Name" language="en" table="x_488637_fetch_adoption_center">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>Name</label>
+            <language>en</language>
+            <name>x_488637_fetch_adoption_center</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-22 15:34:44</sys_created_on>
+            <sys_id>348946f3db78901095c661ca0b9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
+            <sys_package display_value="Fetch" source="x_488637_fetch">1c8446bbdbf4901095c661ca0b961987</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fetch">1c8446bbdbf4901095c661ca0b961987</sys_scope>
+            <sys_update_name>sys_documentation_x_488637_fetch_adoption_center_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-22 15:34:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

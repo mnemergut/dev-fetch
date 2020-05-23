@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_488637_fetch_adoption_center" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_488637_fetch_adoption_center" element="NULL" name="x_488637_fetch_adoption_center" parent="NULL" relationship="NULL" sys_domain="global" view="f4c42151db20101095c661ca0b96196c">366e4ef7db78901095c661ca0b96193a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-22 15:56:09</sys_created_on>
+            <sys_id>326e4ef7db78901095c661ca0b96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-22 15:56:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_488637_fetch_adoption_center</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-22 15:56:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>366e4ef7db78901095c661ca0b96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_488637_fetch_adoption_center</sys_name>
+            <sys_package display_value="Fetch" source="x_488637_fetch">1c8446bbdbf4901095c661ca0b961987</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fetch">1c8446bbdbf4901095c661ca0b961987</sys_scope>
+            <sys_update_name>sys_ui_list_x_488637_fetch_adoption_center_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-22 15:56:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">f4c42151db20101095c661ca0b96196c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
